@@ -1,0 +1,61 @@
+body{
+
+  font-family: 'Roboto', sans-serif;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 580px;
+
+  }
+  .carousel-caption{
+  	text-align: center;
+  	margin-bottom: 200px;
+  	color: white;
+
+  }
+  .fas{
+    align-items: center;
+  	font-weight: 900;
+  	font-size: 50px;
+  	margin-top: 30px;
+
+}
+.img-fluid{
+
+  max-width: 100%;
+  height: 100%;
+  margin-bottom: 24px;
+
+}
+.h4{
+  font-size: 20px;
+}
+.img-thumbnail{
+  width: 450px;
+  height: auto;
+}
+.card{
+  background-color: #404040;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.8) ; 
+}
+.card-text{
+  color: white;
+}
+.card-img-top{
+  height: 215px;
+}
+.img-thumbnail{
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.8) ; 
+}
+.thumb {
+  margin-bottom: 15px;
+}
+img.img-fluid.img-thumbnail {
+    height: 148px;
+}
+
+
+
+
+
